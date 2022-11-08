@@ -1,0 +1,18 @@
+
+.img-fluid{
+    margin-top: 3.5rem;
+    height:420px;
+}
+@media(max-width:768px)
+{
+   .img-fluid{
+
+    margin-top: 5rem;
+    height: 32rem;
+    width: 26rem;
+    margin-left: 0.4rem;
+   }
+}
+.main_header_right figure img{
+    filter: drop-shadow(0 0.5rem 1rem black);
+}
